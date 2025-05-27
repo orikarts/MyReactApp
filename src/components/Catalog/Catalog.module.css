@@ -1,0 +1,25 @@
+.header_text {
+    width: 100%;
+    max-width: 1250px;
+    color: var(--color-main);
+    margin-bottom: 2rem;
+}
+.header_text .wrapper {
+    margin: 0 2rem;
+}
+
+.catalog_whole {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.catalog {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1250px;
+    margin: 0 1rem;
+}
+

@@ -1,0 +1,41 @@
+[
+{
+    "title":"OneBlade",
+    "subtitle":"Перше гоління",
+    "price":"1 649.00",
+    "imgUrl":"./photos_content/product1_oneblade.webp",
+    "description":[
+        "Для чутливої ​​шкіри", "Регульований гребінь «5-в-1»", "60 хв безперервної роботи", "Заряджання USB-A"
+    ]
+},
+
+{
+    "title":"Viva Collection",
+    "subtitle":"Мультиварка «усе в одному»",
+    "price":"6 299.00",
+    "imgUrl":"./photos_content/product11_cooker.webp",
+    "description":[
+        "Каструля ProCeramic+", "6 л", "1300 Вт"
+    ]
+},
+
+{
+    "title":"Philips Avent",
+    "subtitle":"Ручний молоковідсмоктувач",
+    "price":"1 869.00",
+    "imgUrl":"./photos_content/product21_milkpump.webp",
+    "description":[
+        "Технологія природного руху", "М’яка адаптивна силіконова подушечка", "Портативний та простий у використанні", "Легко чистити та збирати"
+    ]
+},
+{
+    "title":"Philips Ingenia Ambition S",
+    "subtitle":"1.5T MRI Machine",
+    "price":"29 000 869.00",
+    "imgUrl":"./photos_content/product26_mri.jpg",
+    "description":[
+        "файна машина", "мрт гуд", "датч кволіті", "дешевше за Siemens"
+    ]
+}
+
+]

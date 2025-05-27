@@ -1,0 +1,38 @@
+header {
+    border-bottom: 2px solid var(--color-border);
+    display: flex;
+    justify-content: center;
+}
+
+header .wrapper {
+
+    width: 100%;
+    max-width: 1250px;
+    margin: .5rem 1rem;
+    display: flex;
+    align-items: center;
+
+}
+
+header .logo img {  
+    height: 1.5rem;
+    margin-right: 1rem;
+    
+}
+header ul {
+    list-style: none;
+    margin-left: auto;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+header a {
+    color: var(--color-main);
+    text-decoration: underline ;
+    text-decoration-color: transparent;
+}
+header a:hover {
+    text-decoration-color: var(--color-main);
+
+}

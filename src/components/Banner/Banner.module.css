@@ -1,0 +1,27 @@
+.banner {
+    background-position: center;
+    height: 25rem;
+    width:100%;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+.banner .text {
+    color: white;
+}
+.banner .wrapper {
+    width: 100%;
+    max-width: 1250px;
+    margin: auto 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* padding: 3rem; */
+
+
+}
+/* .banner .butt {
+    margin: 1rem 0;
+} */

@@ -1,0 +1,26 @@
+.butt {
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    background-color: #0081C4;
+    border: none;
+    border-radius: 100px;
+    width: fit-content;
+    /* padding: .5rem 0; */
+    padding: .5rem 2rem;
+    /* margin: 0 auto; */
+}
+
+.butt:hover {
+    background-color: #00649A;
+    cursor: pointer;
+}
+
+.butt a {
+    
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    /* padding: .5rem 2rem; */
+    margin: auto;
+}
